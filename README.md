@@ -1,4 +1,6 @@
-# Welcome in Cyna GitHub organization ![](https://static.wixstatic.com/media/d9da11_f0ddbd894a0c4eeba7b96fdf02a011e9~mv2.png/v1/fill/w_171,h_49,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/Logo%20Cyna%20Purple%20and%20white.png)
+![](https://static.wixstatic.com/media/d9da11_f0ddbd894a0c4eeba7b96fdf02a011e9~mv2.png/v1/fill/w_171,h_49,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/Logo%20Cyna%20Purple%20and%20white.png)
+
+# Welcome in Cyna GitHub organization 
 
 Welcome to cyna's github, where you'll find a wide range of cybersecurity-related documents and tools.
 for more information about us visit [cyna-it.fr](https://www.cyna-it.fr/)
